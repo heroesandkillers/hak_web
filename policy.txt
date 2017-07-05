@@ -1,0 +1,35 @@
+Privacy policy
+
+1. Introductory
+1) Please read this Privacy Policy carefully. This Privacy Policy constitutes the integral part of the agreement between you (also, the ''User'') and the  (also, the ''Company'').
+2) This Privacy Policy describes the Company's privacy practices with regard to your Personal Data. Personal Data includes any data about you that specifically identifies you as an individual and information about your activities, such as information about your use of our Service, when directly linked to personally identifiable information.
+3) By using the Service, you accept this Privacy Policy and consent to the collection, storage, use, and disclosure of your Personal Data in accordance with this Privacy Policy and applicable legislation. You may withdraw your consent and require removal of your Personal Data by contacting us using the information in this paper.
+
+2. Collection
+1) We get accounts information (GET_ACCOUNTS permission) to get your google mail for auto-login in the game as a unique user.
+2) We do not collect your Personal Data when you provide us such data via the contact form on our Service.
+3) We do not use cookies or other similar technologies to collect your Personal Data.
+ 
+3. Use
+We don't use your Personal Data of any kind.
+
+4. Disclosure
+1) We will not disclose Personal Data to any third parties, unless otherwise is set out by applicable law.
+We do not share Personal Data with companies, organizations and individuals outside of the Company otherwise than:
+
+5. Third parties services 
+We do not sell, provide on lease, or share any Personal Data of the Users to third parties.
+6. Data storage and security and cross-border transfer 
+1) We will use all reasonable measures to protect your Personal Data from unauthorized access, alteration, disclosure or removal.
+
+7. Children's privacy
+1) We do not collect, use or share the Personal Data of children.
+
+8. Cookies
+The User may block, clear and delete cookies in accordance with the instruction for their web-browser or device.
+
+9. Amendments to Privacy Policy
+We have the right to amend this Private Policy at any time, without prior notice to each User. Any changes we may make to our Privacy Policy in the future will be posted here. Where appropriate, we will notify you or seek your consent. Please check back frequently to see any updates or changes to our Privacy Policy.
+ 
+10. Contact info
+If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your Personal Data (its correction, removal or use), you can do so by sending a letter to our email address: trollderiu@gmail.com.
